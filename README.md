@@ -33,5 +33,5 @@ the following command to test it in the console.
 $ (venv) python chat.py
 ```
 
-Now for deployment implement `app.py`
+Now for deployment run `app.py`
 
